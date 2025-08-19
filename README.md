@@ -36,10 +36,9 @@ Payment-Alert-System
 ## ⚙️ Installation & Setup                                     
                                                                
 ### 1️⃣ Clone the Repository   
-
-git clone https://github.com/rutzz-25/payment-alert-system.git 
-cd payment-alert-system                                        
-
+---
+git clone https://github.com/rutzz-25/payment-alert-system.git cd payment-alert-system                                        
+---
 2️⃣ Import Project in Eclipse
 - Open Eclipse IDE
 - Go to File > Import > Existing Projects into Workspace
@@ -50,9 +49,9 @@ cd payment-alert-system
 - Install MySQL
 - Create a new database, e.g., payment_alert
 - Import the provided database/payment_alert.sql file
-  
+---
   sql code: mysql -u root -p payment_alert < database/payment_alert.sql 
-
+---
 - Update your DB connection details in Java code (username, password, database name).
 
 4️⃣ Run the Project
