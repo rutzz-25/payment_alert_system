@@ -25,18 +25,18 @@ This project helps users track payments, generate alerts for due dates, and mana
 
 ## 📂 Project Structure
 Payment-Alert-System/
-│── src/ # Java source code
-│── WebContent/ # HTML, CSS, JSP 
-│── database/ # SQL schema & scripts
-│── lib/ # External JAR files
-│── README.md # Documentation
-│── .gitignore # Ignore unnecessary files
+─ src/ # Java source code
+─ WebContent/ # HTML, CSS, JSP 
+─ database/ # SQL schema & scripts
+─ lib/ # External JAR files
+─ README.md # Documentation
+─ .gitignore # Ignore unnecessary files
 
 ---
 ## ⚙️ Installation & Setup                                     
                                                                
 ### 1️⃣ Clone the Repository                                    
-```bash                                                        
+|```bash |                                                       
 git clone https://github.com/rutzz-25/payment-alert-system.git 
 cd payment-alert-system                                        
 
@@ -50,8 +50,8 @@ cd payment-alert-system
 - Install MySQL
 - Create a new database, e.g., payment_alert
 - Import the provided database/payment_alert.sql file
-
-  mysql -u root -p payment_alert < database/payment_alert.sql 
+  
+  sql code: mysql -u root -p payment_alert < database/payment_alert.sql 
 
 - Update your DB connection details in Java code (username, password, database name).
 
