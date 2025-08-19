@@ -24,19 +24,19 @@ This project helps users track payments, generate alerts for due dates, and mana
 ----
 
 ## 📂 Project Structure
-Payment-Alert-System/
-─ src/ # Java source code
-─ WebContent/ # HTML, CSS, JSP 
-─ database/ # SQL schema & scripts
-─ lib/ # External JAR files
-─ README.md # Documentation
-─ .gitignore # Ignore unnecessary files
+Payment-Alert-System
+- src/ # Java source code
+- WebContent/ # HTML, CSS, JSP 
+- database/ # SQL schema & scripts
+- lib/ # External JAR files
+- README.md # Documentation
+- .gitignore # Ignore unnecessary files
 
 ---
 ## ⚙️ Installation & Setup                                     
                                                                
-### 1️⃣ Clone the Repository                                    
-|```bash |                                                       
+### 1️⃣ Clone the Repository   
+
 git clone https://github.com/rutzz-25/payment-alert-system.git 
 cd payment-alert-system                                        
 
@@ -63,23 +63,23 @@ cd payment-alert-system
 
 📝 Future Enhancements
 
-  🔔 Email/SMS notifications for payment alerts
-  📊 Dashboard with payment statistics
-  👥 Multi-user login system
+- 🔔 Email/SMS notifications for payment alerts
+- 📊 Dashboard with payment statistics
+- 👥 Multi-user login system
 
 ---
 
 🤝 Contributing
-   Contributions are welcome! Feel free to fork this repo and submit pull requests.
+- Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 ---
 
 📄 License
-This project is licensed under the MIT License – free to use and modify.
+- This project is licensed under the MIT License – free to use and modify.
 
 ---
 
 👨‍💻 Author
-   Developed by Rutuja Sabale
+- Developed by Rutuja Sabale
 🌐 GitHub: rutzz-25
 
